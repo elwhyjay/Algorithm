@@ -1,3 +1,3 @@
 # Algorithm
 https://www.acmicpc.net/user/lyj4032  
-mainly with Go
+Upload source code solved by golang
